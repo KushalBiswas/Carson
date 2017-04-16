@@ -1,0 +1,22 @@
+{
+	"name": "Carson",
+	"version": "1.0.0",
+	"description": "",
+	"main": "./lib/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"express": "~4.13.3",
+		"body-parser": "~1.15.0",
+		"mongodb": "~2.2.19",
+		"nunjucks": "~2.4.3",
+		"nunjucks-date": "~1.2.0",
+		"config": "^1.20.4",
+		"ejs": "^2.4.2",
+		"request": "^2.72.0",
+		"helmet":""
+	},
+	"author": "Kushal and Shreya",
+	"license": "GPL-3.0"
+}
